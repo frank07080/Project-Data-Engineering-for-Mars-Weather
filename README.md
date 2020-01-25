@@ -15,3 +15,10 @@ This project concerns the weather on Mars. Our goal is to make visualizations an
 - Dash-core-components: 1.6.0
 - Dash-html-components: 1.0.2
 - Dash-table: 4.5.1
+
+Work is done by the following:
+
+- Guanzhong Chen
+- Cangcheng Tang
+- Jiayuan Tian
+- Zhujun Shen
